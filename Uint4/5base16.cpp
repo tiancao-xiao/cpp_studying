@@ -9,6 +9,8 @@
 #include <vector>
 using namespace std;
 
+
+
 //编码表
 static const string base16_enc_tab{"0123456789ABCDEF"};
 
