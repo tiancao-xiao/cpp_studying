@@ -1,0 +1,2 @@
+2026-03-13 18:02:54 debug test log 004 ofstream D:\Code_cpp\cpp_study\Unit6\06_streamlog.cpp:82
+2026-03-13 18:02:54 debug test log 005 ofstream D:\Code_cpp\cpp_study\Unit6\06_streamlog.cpp:83
